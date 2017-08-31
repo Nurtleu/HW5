@@ -1,0 +1,6 @@
+E:\C#\HomeWork5\Task2\bin\Debug\Task2.exe.config
+E:\C#\HomeWork5\Task2\bin\Debug\Task2.exe
+E:\C#\HomeWork5\Task2\bin\Debug\Task2.pdb
+E:\C#\HomeWork5\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+E:\C#\HomeWork5\Task2\obj\Debug\Task2.exe
+E:\C#\HomeWork5\Task2\obj\Debug\Task2.pdb
